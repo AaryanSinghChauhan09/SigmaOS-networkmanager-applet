@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_networkmanager_applet"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS networkmanager-applet component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_networkmanager_applet"
+path = "src/lib.rs"
