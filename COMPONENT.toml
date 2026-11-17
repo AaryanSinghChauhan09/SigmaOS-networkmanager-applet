@@ -3,7 +3,7 @@ name = "SigmaOS-networkmanager-applet"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "networkmanager-applet component"
+description = "SigmaOS SigmaOS-networkmanager-applet component"
 upstream = []
 
 [contract]
